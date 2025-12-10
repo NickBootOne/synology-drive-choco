@@ -3,8 +3,6 @@
   <metadata>
     <id>synologydrive</id>
     <version>4.0.1-17885</version>
-    <repository type="git"
-                url="https://github.com/ArcasCZ/synology-drive-choco" />
     <owners>Vojtech.Olej</owners>
     <title>Synology Drive Client</title>
     <authors>Synology</authors>
